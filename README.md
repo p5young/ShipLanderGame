@@ -10,3 +10,4 @@ Use CTRL+Z or the undo button to undo queue of changes made to landing pad or mo
 Press space to begin play
 Use W, S, A, D keys to move ship
 When speed is green, you're at a safe speed for landing
+
