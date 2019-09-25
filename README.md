@@ -6,9 +6,9 @@ Video demonstration and explanation of some features: https://www.youtube.com/wa
 
 Type "make run" in terminal to run.
 
-Click and drag mountain tops to change landscape.
-
-Click and drag the red landing platform to move it.
+In the lower view:
+  Click and drag mountain tops to change landscape.
+  Click and drag the red landing platform to move it.
 
 Use the undo/redo buttons to undo or redo changes made to the landing pad location and mountain-top heights.
 
