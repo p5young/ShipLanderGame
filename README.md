@@ -2,7 +2,7 @@
 Written in Java.
 Multiple views in MVC architecture.
 
-Video Demonstration and Explanation of some features: https://www.youtube.com/watch?v=_O-a56MTo5Q/
+Video demonstration and explanation of some features: https://www.youtube.com/watch?v=_O-a56MTo5Q/
 
 Type "make run" in terminal to run.
 
