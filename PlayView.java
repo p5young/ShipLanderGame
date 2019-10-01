@@ -33,7 +33,7 @@ public class PlayView extends JPanel implements Observer {
 
             @Override
             public void keyPressed(KeyEvent e) {
-                System.out.println(e.getKeyChar());
+                //System.out.println(e.getKeyChar());
                 switch (e.getKeyChar()) {
                 	case 'w':
                 		model.ship.thrustUp();
